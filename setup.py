@@ -4,7 +4,7 @@ with open('README.md', 'r') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='consensus-clustering',
+    name='conscluster',
     version='1.0.0',
     author='Michal Kazmierski',
     author_email='',
